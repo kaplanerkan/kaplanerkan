@@ -126,3 +126,4 @@ Bridging hardware, software & financial systems
 </h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0891b2,100:6366f1&height=120&section=footer"/>
+
